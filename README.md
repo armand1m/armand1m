@@ -38,11 +38,3 @@ curl https://info.armand1m.dev/neat-things
 
 I do have my own Kubernetes cluster deployed in Google Cloud Platform.
 In this cluster I apply my DevOps learnings and host my own applications.
-
-### Side Projects
-
-#### Neat Things
-
-https://armand1m.dev/neat
-
-Neat Things is a live collection of nice things I've found over the internet.
