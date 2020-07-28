@@ -6,7 +6,18 @@ Currently I work as a Solutions Developer at [Netflix](https://jobs.netflix.com/
 
 Previously, I worked as a Senior Product Engineer at [Framer](https://framer.com), and as a Software Engineer at [Travix](https://travix.com).
 
-I share things I find nice at https://armand1m.dev/neat
+I share things I find nice at https://go.armand1m.dev/neat.
+
+I'm also a moderator at a telegram group focusing in tips and life abroad for Brazilian Software Engineers. Join us at https://go.armand1m.dev/png
+
+Wanna have a talk? Schedule some time at https://go.armand1m.dev/schedule
+
+## Social Media
+
+ - Linkedin: https://go.armand1m.dev/linkedin
+ - Twitter: https://go.armand1m.dev/twitter
+ - Github: https://go.armand1m.dev/github
+ - Medium: https://go.armand1m.dev/medium
 
 ## Things I'm focusing now
 
