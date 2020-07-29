@@ -4,7 +4,7 @@ My name is Armando Magalhães. I'm a Brazilian Software Engineer living in Amste
 
 Currently I work as a Solutions Developer at [Netflix](https://jobs.netflix.com/teams/).
 
-Previously, I worked as a Senior Product Engineer at [Framer](https://framer.com), and as a Software Engineer at [Travix](https://travix.com).
+Previously, I worked as a Senior Product Engineer at [Framer](https://framer.com) and as a Software Engineer at [Travix](https://travix.com).
 
 I share things I find nice at https://go.armand1m.dev/neat.
 
