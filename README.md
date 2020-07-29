@@ -10,7 +10,7 @@ I share things I find nice at https://go.armand1m.dev/neat.
 
 I'm also a moderator at a telegram group focusing in tips and life abroad for Brazilian Software Engineers. Join us at https://go.armand1m.dev/png
 
-Wanna have a talk? Schedule some time at https://go.armand1m.dev/schedule
+Wanna have a word? Schedule some time at https://go.armand1m.dev/schedule
 
 ## Social Media
 
