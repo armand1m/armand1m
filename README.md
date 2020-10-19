@@ -18,6 +18,7 @@ Wanna have a word? Schedule some time at https://go.d1m.dev/schedule
  - Twitter: https://go.d1m.dev/twitter
  - Github: https://go.d1m.dev/github
  - Medium: https://go.d1m.dev/medium
+ - Telegram: https://go.d1m.dev/telegram
 
 ## Things I'm focusing now
 
