@@ -33,7 +33,7 @@ Wanna have a word? Schedule some time at https://go.d1m.dev/schedule
 
  - My own golinks implementation: https://go.d1m.dev/source
  - Maintaining a Kubernetes cluster with Istio for my development purposes and fun side projects with my friends
- - Writing Haskell applications once in a while to sharp my functional programming skills
+ - Writing Haskell applications once in a while keep my functional programming skills sharp
  - Creating silly bot applications for me and my friends for fun
  - Creating apps to help me manage my own behaviour
  - Contributing to open source projects that I'm interested
