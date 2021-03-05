@@ -2,7 +2,7 @@
 
 I'm a Brazilian Software Engineer living in Amsterdam since 2018.
 
-Currently I work as a Senior Software Engineer at [Netflix](https://jobs.netflix.com/teams/).
+Currently, I work as a Senior Software Engineer at [Netflix](https://jobs.netflix.com/teams/).
 
 Previously, I worked as a Senior Product Engineer at [Framer](https://framer.com) and as a Software Engineer at [Travix](https://travix.com).
 
