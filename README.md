@@ -33,3 +33,4 @@ Wanna have a word? Feel free to ping me on telegram https://go.d1m.dev/telegram
  - Creating apps to help me achieve a more productive and disciplined life style
  - Contributing to open source projects that I'm am interested about
  - Writing Haskell applications once in a while to keep my functional programming skills sharp
+ - Building and customizing split mechanical keyboards 
