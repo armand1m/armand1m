@@ -6,7 +6,7 @@ Currently, I work as a Senior Software Engineer at [Netflix](https://jobs.netfli
 
 Previously, I worked as a Senior Product Engineer at [Framer](https://framer.com) and as a Software Engineer at [Travix](https://travix.com).
 
-I'm also one of the moderators at Programando na Gringa, a safe virtual space for everyone to talk about expat life and for Brazilians looking to work abroad with tech. Join us at https://go.d1m.dev/png
+I'm one of the moderators at [Programando na Gringa](https://go.d1m.dev/png): a safe virtual space for everyone to talk about immigrant and expat life and for Brazilians looking to learn more about working abroad with tech.
 
 Wanna have a word? Feel free to ping me on telegram https://go.d1m.dev/telegram
 
