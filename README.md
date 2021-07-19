@@ -1,5 +1,3 @@
-# :wave: Oi!
-
 I'm a Brazilian Software Engineer living in Amsterdam since 2018.
 
 Currently, I work as a Senior Software Engineer at [Netflix](https://jobs.netflix.com/teams/).
@@ -10,22 +8,16 @@ I'm one of the moderators at [Programando na Gringa](https://go.d1m.dev/png): a 
 
 Wanna have a word? Feel free to ping me on telegram https://go.d1m.dev/telegram
 
-## 💻 Social Media
+You can find some articles I wrote at https://go.d1m.dev/medium
 
- - Linkedin: https://go.d1m.dev/linkedin
- - Twitter: https://go.d1m.dev/twitter
- - Medium: https://go.d1m.dev/medium
+You can follow me on https://go.d1m.dev/twitter
 
-## Things I'm focusing now
+### What I am focusing on at work
 
-### 👨🏽‍💻 Work
+ - Building Genesis: a Semantic Data Layer for Netflix Studio
+ - Solving problems for Netflix Studio in Europe and US with software
 
- - Creating developer tooling for Solution Developers
- - Building a Semantic Data Layer for Netflix Studio
- - Crafting short-term applications for the Studio space in Europe and US
- - Bringing engineering best practices to Solution Development at Netflix
-
-### 📖  Learning and Side projects
+### Learning and Side projects
 
  - My url shortener at https://go.d1m.dev/
  - My digital garden at https://go.d1m.dev/neat
