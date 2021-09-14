@@ -15,7 +15,7 @@ You can follow me on https://go.d1m.dev/twitter
 ### What I am focusing on at work
 
  - Building Genesis: a Semantic Data Layer for Netflix Studio
- - Solving problems for Netflix Studio in Europe and US with software
+ - Solving problems for Netflix Studio in Europe and US
 
 ### Learning and Side projects
 
