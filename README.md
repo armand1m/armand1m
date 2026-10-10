@@ -7,7 +7,7 @@ My career evolved around working on complex challenging problems that involved m
  - and data engineering systems: _data warehouses (parquet, iceberg, snowflake, bigquery), change-data-capture streaming pipelines, building semantic data layers from scratch, datamesh patterns_
 
 At work I am currently involved with improving service architecture for intensive payment services.
-At home, and for fun, I am currently focused in exploring a blend AI and Software Engineering with the Audio Engineering for music purposes.
+At home, and for fun, I am currently focused in exploring a blend AI and Software Engineering with Audio Engineering for music purposes.
 
 I consider myself a builder at heart.<br>
 
